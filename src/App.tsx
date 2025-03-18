@@ -7,7 +7,8 @@ function App() {
       {/* Hero Section */}
       <section className="min-h-screen relative flex items-center justify-center bg-gradient-to-br from-indigo-500 to-purple-600 text-white">
         <div className="absolute inset-0">
-          <div className="absolute inset-0 bg-black opacity-40"></div>
+          <div className="absolute inset-0 bg-black opacity-40">
+          </div>
         </div>
         
         <div className="relative z-10 text-center px-4">
@@ -119,7 +120,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group">
               <div className="relative h-48">
                 <img 
-                  src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&q=80"
+                  src="https://alcarengenharia.netlify.app/midia/1.jpg"
                   alt="Alçar Engenharia"
                   className="w-full h-full object-cover"
                 />
