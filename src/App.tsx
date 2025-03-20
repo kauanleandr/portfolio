@@ -24,7 +24,7 @@ function App() {
               <Github size={24} />
             </a>
             <a 
-              href="https://www.linkedin.com/in/kauanleandr/" 
+              href="https://www.linkedin.com/in/kauanleandr" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="p-2 hover:text-indigo-300 transition-colors"
@@ -147,7 +147,43 @@ function App() {
               </div>
             </div>
           </div>
+          /* aaaaaa */
+          <div>
+          <div className="grid grid-cols-1 gap-6">
+            <div className="bg-white rounded-xl shadow-lg overflow-hidden group">
+              <div className="relative h-48">
+                <img 
+                  src="https://cdn.discordapp.com/attachments/1344076089458298922/1352087496770719795/hWME7oGoT3qZ0rH5f7lFzA.png?ex=67dcbd1b&is=67db6b9b&hm=c132c930207259c7a38e8e8eb2ae9393e313bc3e1126688c9c1e6a6159eefab6&"
+                  alt="Alçar Engenharia"
+                  className="w-full h-full object-cover"
+                />
+                <div className="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                  <a href="https://gleaming-douhua-b215c0.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <ExternalLink className="text-white" size={24} />
+                  </a>
+                </div>
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-semibold mb-2 text-gray-800">Simulação Educativa: Aprenda a Identificar Golpes Online</h3>
+                <p className="text-gray-600">
+                  Website desenvolvido para fins educativos, apresentando seus serviços e portfólio de projetos.
+                  Desenvolvido com Vue.js e hospedado na Netlify.
+                </p>
+                <a 
+                  href="https://gleaming-douhua-b215c0.netlify.app/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center mt-4 text-indigo-600 hover:text-indigo-700"
+                >
+                  Visitar site <ExternalLink size={16} className="ml-1" />
+                </a>
+              </div>
+            </div>
+          </div>
+          </div>
         </div>
+        
+        
       </section>
 
       {/* Footer */}
