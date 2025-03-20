@@ -147,13 +147,13 @@ function App() {
               </div>
             </div>
           </div>
-          /* aaaaaa */
+          <br />
           <div>
           <div className="grid grid-cols-1 gap-6">
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group">
               <div className="relative h-48">
                 <img 
-                  src="https://cdn.discordapp.com/attachments/1344076089458298922/1352087496770719795/hWME7oGoT3qZ0rH5f7lFzA.png?ex=67dcbd1b&is=67db6b9b&hm=c132c930207259c7a38e8e8eb2ae9393e313bc3e1126688c9c1e6a6159eefab6&"
+                  src="https://cdn.discordapp.com/attachments/951597800204943491/1352325105979625493/image.png?ex=67dd9a66&is=67dc48e6&hm=e0bfc5d2e9c38fc04c15ddb919b26a2f59435c9f5329fc328418eb85d9021628&"
                   alt="Alçar Engenharia"
                   className="w-full h-full object-cover"
                 />
