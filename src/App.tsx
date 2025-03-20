@@ -154,7 +154,7 @@ function App() {
               <div className="relative h-48">
                 <img 
                   src="https://cdn.discordapp.com/attachments/951597800204943491/1352325105979625493/image.png?ex=67dd9a66&is=67dc48e6&hm=e0bfc5d2e9c38fc04c15ddb919b26a2f59435c9f5329fc328418eb85d9021628&"
-                  alt="Alçar Engenharia"
+                  alt="Simulação Educativa"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
