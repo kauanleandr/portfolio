@@ -166,8 +166,7 @@ function App() {
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2 text-gray-800">Simulação Educativa: Aprenda a Identificar Golpes Online</h3>
                 <p className="text-gray-600">
-                  Website desenvolvido para fins educativos, apresentando seus serviços e portfólio de projetos.
-                  Desenvolvido com Vue.js e hospedado na Netlify.
+                  Website desenvolvido para fins educativos, Desenvolvido com React e hospedado na Netlify.
                 </p>
                 <a 
                   href="https://gleaming-douhua-b215c0.netlify.app/" 
